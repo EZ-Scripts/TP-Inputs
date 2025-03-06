@@ -99,6 +99,5 @@ end)
 ![image](https://user-images.githubusercontent.com/84135181/220184657-850ef2ce-2ccf-470b-8302-507aaaf7387c.png)
 ![4daf666e9268476a200f16ed43854f5e02e99dff](https://user-images.githubusercontent.com/84135181/228959243-0ac69849-925a-4002-9a98-070d11865c42.jpeg)
 
+Original Repository (Author: Nosmakos): https://github.com/TitansProductions/TP-Inputs
 
-
-*This script will be an extra semi-requirement for my free or paid scripts and also can be used for everyone who is interested.*
